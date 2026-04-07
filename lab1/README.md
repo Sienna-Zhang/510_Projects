@@ -2,6 +2,8 @@
 
 This folder contains **two separate apps** for TECHIN 510. Each lives in its own subdirectory with its own `app.py`, `requirements.txt`, and documentation.
 
+The assignment handout PDF sits at the same level as those folders: [`510 lab1.pdf`](510%20lab1.pdf).
+
 | Subfolder | App |
 | --------- | --- |
 | [`lab1_Dorothy_Dashboard/`](lab1_Dorothy_Dashboard/) | **Purchase Request Manager** (Dorothy’s app) — procurement workflow with SQLite. |
