@@ -9,7 +9,7 @@ A single-file **Streamlit** web app for browsing and searching labs, study space
 | Entry point | `app.py` |
 | Dependencies | `requirements.txt` |
 
-> **Note:** The `lab1/` folder at the repository root also contains another course app (procurement workflow). **GIX Wayfinder** lives in `lab1/lab1_GIX Wayfinder/`. Run the commands below from that subdirectory.
+> **Note:** `lab1/` holds two sibling apps. **GIX Wayfinder** is this folder (`lab1/lab1_GIX Wayfinder/`). Dorothy’s **Purchase Request Manager** is in `lab1/lab1_Dorothy_Dashboard/`. Run the commands below from this Wayfinder subdirectory.
 
 ---
 
@@ -37,10 +37,11 @@ lab1_GIX Wayfinder/
 
 ## Setup
 
-1. Go to this folder (from the `510_Projects` repo root):
+1. Go to this folder (from the `510_Projects` repo root; quote the path because of the space in the folder name):
 
    ```powershell
-   cd lab1\lab1_GIX Wayfinder
+   cd lab1
+   cd "lab1_GIX Wayfinder"
    ```
 
 2. Create and activate a virtual environment (Windows PowerShell example):
