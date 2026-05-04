@@ -1,0 +1,367 @@
+Speaker 1 0:00
+Launch. After you've done your poster session and all your live demos and presentations, you have to give everything that you bought back to us, and so that usually falls upon me and Kevin. And as you can see, there are a lot of things that are bought throughout the two quarters of launch. So the process usually goes is Kevin and I will set up a table on the third floor. Teams will come to us. We have a list of all the things here, and we go through the list individually, one by one, and say, you have this thing. If you do, you give it back to us. We mark it off on the return to list right here, and then at the end, Kevin and I divide items into what we think belongs in a Makerspace or it or doesn't really belong in either. We add an asset tag to them, and then we throw it in blue tally. So the issue is, there's a lot of items, and it takes quite some time to go through each item one by one for the teams. And then also, it'd be nice to have an automated process to help get things added into blue tally. One thing you can do is there's, like, a, you know, a CSV upload. So if there's a way, we can get our asset tag plus these items into blue tally, that would be nice. So question
+
+Unknown 1:37
+from Austin, yes, or maybe I'm really good at explaining things. What is blue tally?
+
+Speaker 1 1:48
+Oh, okay, yes. So blue tally is the software we use to track checkouts. So if you've ever checked anything out from us in it,
+
+Unknown 2:07
+yeah, let me log in first. I will share again.
+
+Speaker 1 2:17
+So this is bluetalk.
+
+Speaker 1 2:33
+So you can see we have all our assets here, everything that you can check out. We've got laptops, headsets, cameras, microphones, anything you could ever want.
+
+Unknown 2:56
+So it does have the import function and
+
+Speaker 1 3:04
+think you can import assets. These are the columns of the CSE where you can import us. We don't need all of it. Probably just need like asset name and asset tag. I It
+
+Unknown 3:25
+does have an import function. Yes, it is for CSV files.
+
+Speaker 1 3:36
+Yeah, I used it once when converting from our old inventory tracker system to this one blue tally. But I haven't had much luck in converting
+
+Unknown 3:52
+the annual check in from
+
+Speaker 1 3:57
+launch, mainly because we need to add the Asset Tags individually so it can be easier to just type it in on the website that point. But if there's a better way to do it, maybe get our little barcode scanner working with this. That would be nice.
+
+Unknown 4:16
+So what's the issue with the actual issue? The actual issue, yeah.
+
+Speaker 1 4:24
+Is there a better way to automate the check in system with all the students coming in at
+
+Unknown 4:30
+once? Did you walk through
+
+Speaker 2 4:33
+a specific checkout check in
+
+Speaker 1 4:36
+like flow? Yeah. So a team will come to us, hopefully they have all their items they'll give we'll go through the list one by one. Say, Hey, do you have artificial turf grass? And if you do, you can mark it off the return system. We go through this one by one, and afterwards. Me and Kevin have to come together and decide who belongs, what belongs where, and then we have to add this into blue tally.
+
+Unknown 5:11
+So the ultimate which parts need to be automated
+
+Speaker 1 5:19
+Is there a way where we can make the check in process easier.
+
+Speaker 1 5:32
+Yep, basically it's an eight digit number. It's got a barcode on it. Yeah, it's given out by University of Washington. There's one here on this computer. I can't really turn around and show it, but
+
+Unknown 5:48
+so every item that you need to return has one of those.
+
+Speaker 1 5:52
+Every item we need to return needs to have one put on it. Yeah? The barcode, yes. Kitty, can you
+
+Speaker 3 6:02
+explain the background situation?
+
+Unknown 6:06
+Again? The background, yeah, what is the situation? What
+
+Speaker 1 6:13
+do you mean by background situation? Like, why do we need to return things?
+
+Unknown 6:16
+Or, like, what is
+
+Unknown 6:20
+the problem right now, like, like, right now, we just
+
+Speaker 3 6:24
+purchasing stuff and we return. Yes, you have to, like, check
+
+Unknown 6:32
+if we return all the
+
+Speaker 2 6:34
+stuff or so. You have a barcode scanner, but you're not able to use it with these things.
+
+Speaker 1 6:42
+We are able to use it with these things, but we need to get the labels on first.
+
+Unknown 6:48
+Maybe I am misunderstanding
+
+Speaker 1 6:52
+the course, yeah, the whole work. Okay, just
+
+Speaker 2 6:56
+which parts feel slow like go through the process again and tell us which parts feel slow.
+
+Speaker 1 7:00
+The part that feels slow and takes a lot of time is when people bring things to us, and then, first they need to check in with us to see if they have anything checked out on blue tally. And then I need to check that those like individual checkout stuff in. And then they need to check for the stuff that they purchased to return, and then we need to get the stuff labeled and added to Blue tally
+
+Speaker 4 7:31
+so they can check things out from Blue tally at wallet produce.
+
+Speaker 2 7:36
+Yes, oh, so they purchased them, and there's no barcode when they purchase it, but when they return, then they add a bar, you have to add a barcode.
+
+Speaker 1 7:46
+Maybe, if there was a way, like when the purchase comes in, to add the barcode right away and get into blue tally, check everything in through tally, that would be nice, too. Makes it less work all the day over the return yes.
+
+Unknown 8:02
+So it will be very helpful with
+
+Unknown 8:05
+because now the procedure is
+
+Unknown 8:07
+checking twice, first check in with purchase,
+
+Unknown 8:09
+then check in with brutality. Yes.
+
+Speaker 1 8:15
+So maybe I know you already did like the purchase workflow, you can maybe adjust that purchase workflow to like notify me as well. I don't know what that looks like. So Sydney, I
+
+Speaker 3 8:29
+am assuming there's no but wondering if there's any compliance requirement that Kevin basically to go. And Kevin said it cannot go through bluetalk.
+
+Speaker 1 8:40
+So Kevin's stuff also goes in blue tally, and it's kind of just like a instinct, I guess, on what belongs with Kevin in the makerspace, or belongs with me in the IT, or the stuff that we just don't want. Daniel, budget, no, there's not really a budget. It just depends on, like, a category item, like, if it's reusable, if it's been, you know, consumed as part of the the prototype
+
+Unknown 9:21
+that you've built, it's
+
+Unknown 9:25
+been consumed that we don't really need it back.
+
+Speaker 1 9:37
+No. So we have, we have a little sticker roll full of barcodes. Take it off. That's the barcode. Yeah, they're pre generated, and then you have to basically
+
+Unknown 9:48
+attach what you stuck it on. Yeah? Make. I like that information.
+
+Speaker 1 10:02
+Okay, so if we were adding items individually in blue tally, we can
+
+Unknown 10:12
+go to assets New and then.
+
+Speaker 1 10:19
+So here it pre fills one, it's basically just going off the last one. But since both Kevin and I have our own roll of sticker barcodes, this isn't always right. This is where you add in. If you have existing product, you can select it here, or we can create a new one for status. Gotta say, it's ready to deploy, sent out, and that's most of what. We can also add things like location
+
+Unknown 10:50
+that would be like IT shop or bigger space,
+
+Unknown 10:58
+yep. So NASA ID
+
+Unknown 11:02
+and product number,
+
+Speaker 1 11:08
+not product number, but just product Yes, I'm wondering
+
+Speaker 4 11:13
+for this product, it's only for faculty or for both faculty.
+
+Speaker 1 11:19
+So there is a student login, I think it's GIX hub, where you can log in and look at all the assets that we have, all the accessories due to circumstances. You can check things out using the account, but you really shouldn't. You should always come to me, or Kevin, or one of like the crew to check things out. But everyone does have access to this website, log in to see what's available.
+
+Unknown 11:54
+Josh, a follow up question is
+
+Unknown 11:58
+like, why it's related to the purchasing stuff. Why is
+
+Speaker 1 12:02
+it related to purchasing? Because the stuff that comes in from purchasing eventually ends up in here Bluetooth.
+
+Unknown 12:12
+So what do you do with what do you do with
+
+Unknown 12:17
+objects that are too small to have a
+
+Unknown 12:20
+physical barcode?
+
+Unknown 12:22
+Yes, so objects that are too small,
+
+Speaker 1 12:28
+if it's something that should be checked in and out, like, I don't know, like earbuds or something, then sometimes we'll put the barcode on the box. It's not ideal. People throw away the box. But if something like a cable that's interchangeable other cables, and it's not unique, then we can put it in accessories. So here you can see, like ethernet cables, HDMI cables, those things are just interchangeable with each other. And this doesn't need a
+
+Speaker 2 12:57
+barcode, yes, okay, do you also have the UPC information on every item in here?
+
+Speaker 1 13:06
+Like, there's no for accessories, there's no individual identifying information. What about for the asset? For assets for, like, computers, sometimes we'll put in, like, the serial number, but otherwise it's just name, product number. I can open one as an example. So got an Alienware s ID,
+
+Unknown 13:39
+pretty basic information, do you
+
+Speaker 1 13:44
+still need to check whether item is actually returned or not?
+
+Speaker 1 13:54
+Whether something is returned or not? Yes, generally, people should be returning things to like an IT staff member me directly, and that way we can verify and check it in. Sometimes when nobody's in, they'll just leave it on my desk. But there have been gaps where people have said they've returned things, but then we don't have said thing, and sometimes it can fall apart. So happens a lot with the camera, just because it's one item with multiple parts inside, so we have to, like, check inside the case every time to make sure everything's returned. And sadly, things go missing. Yes, nope. We want to keep the projects together as much as possible, just so we can show it off to future students, not
+
+Unknown 14:51
+the actual project. Yeah.
+
+Speaker 1 15:01
+Okay, any other questions?
+
+Unknown 15:04
+I feel like, yeah.
+
+Speaker 4 15:09
+So for the process of like, upload your manually filled spreadsheet to Blue tally. Like, is there any friction point? Like, will it be able to recognize every item in that spreadsheet? Or, like, is there cases where you have to manually add or edit some items?
+
+Speaker 1 15:30
+I think the friction point is like product name. So right now, the item is usually described by this, by what I call, you know, like Amazon description, so hollyland Lark m2 wireless microphone for iPhone, 15, 1617, Android. I don't really want that as a product name, right? I just want like, hollyland Lark m2 wireless microphone. So one of the issues is, can we break down this item description that's been stuffed into the title so that it can get hidden on Amazon, into an actual product name, and then we compare that with the SID, and
+
+Unknown 16:21
+then hopefully just run a CSV, get it all uploaded.
+
+Unknown 16:26
+Would you be interested in maintaining the UPC?
+
+Speaker 2 16:35
+Also? All right, define UPC for me, just standard barcode given out by Oh.
+
+Speaker 1 16:42
+Products. No, we haven't been doing that, so I don't think there's a need to keep the UPC. We just
+
+Speaker 2 16:49
+part of our code. There are databases where you scan the UPC gives you the title, the description.
+
+Unknown 16:55
+Note, there's like, three databases.
+
+Speaker 1 16:58
+Okay, that does sound interesting. It could be, you know, useful in filling out all forms the stores
+
+Speaker 2 17:07
+do have, like, where they track bar codes, but then they also have their own unique Ivy trackers, blue tele,
+
+Speaker 1 17:21
+yeah, yeah, it would be, we need all the data one place, though. So if you could find a way to pull that information from the UPC and then add it into a spreadsheet, so when you upload a that would be nice,
+
+Unknown 17:41
+other automated processes allowed for blue tower also, like,
+
+Speaker 2 17:46
+is there? Do you know if there are endpoints in blue towers that allow you to, like,
+
+Unknown 17:52
+like, API's?
+
+Speaker 1 17:55
+Yeah, but you got to pay for those. And right now we're not paying for those. I think right now, Alan wrote a little script that will pull everything that's overdue, sent out an email to remind people to give stuff back. So it's possible to do that like Microsoft Power automate.
+
+Speaker 1 18:21
+Sure you first like item names. Uh, Dorothy created this.
+
+Unknown 18:32
+Yes. She works very hard
+
+Unknown 18:37
+checking things in and out.
+
+Speaker 2 18:42
+So, okay, yeah, so, so you're responsible for like, Mr. Suckers, return, basically, yes,
+
+Unknown 18:57
+okay, any other questions? Can
+
+Speaker 1 19:02
+Okay, sounds good. I expect you all to return your stuff next Year. Anything else from me? Thank
+
+Unknown 19:41
+let's do that. So let's reunion three.
+
+Unknown 20:14
+Why on how cards.
+
+Unknown 20:51
+So for example, I have a power card that says,
+
+Unknown 20:56
+gain two strings. That means every turn
+
+Speaker 5 20:59
+it gains Two turns when You play OH,
+
+Unknown 21:40
+security.
+
+Speaker 6 21:59
+I just like X, game over
+
+Speaker 7 22:20
+to me, oh, When you're lying down on your mentor,
+
+Unknown 23:06
+office, You're
+
+Unknown 23:27
+In General,
+
+Unknown 24:10
+It It's of course.
+
+Unknown 25:00
+Okay? You're the terrestrial. Way This
+
+Unknown 25:51
+one Have switch. You? Why? Not? Because?
+
+Speaker 8 27:00
+My house. Really what
+
+Speaker 5 27:51
+it because of Family clothes. It
+
+Unknown 29:00
+possible. So
+
+Unknown 29:33
+sure we know, what's my response?
+
+Unknown 30:02
+Oh, is this a Place? How are your
+
+Unknown 30:40
+people? Week, though, began, so this week,
+
+Speaker 5 30:47
+it's getting crazy. Oh yeah, it's raining today, but it's also the Green Zone. Yeah,
+
+Unknown 31:13
+I think that was a year we decided
+
+Unknown 31:15
+we had, like 118 I wasn't there. My uncle was fully there was there.
+
+Unknown 31:33
+My uncle the world's
+
+Unknown 31:54
+okay? You finish the rest of
+
+Unknown 32:08
+the discussion, but I think
+
+Unknown 32:11
+one thing I forgot to mention
+
+Speaker 9 32:15
+last week, I kind of simplified the lab instructions so we can force out the lab earlier. Maybe try fork again, and hopefully we'll see a simplified lab instructions, which will save you a little bit time to complete the lab. All right. So as you perform the interview with mahson, I keep working on the interaction with G stack. So what I eventually get G stack working so that you will get some design document, which is a markdown files to work in this particular path. And then, right now what I'm doing is to run the plan review mode. So I invoke the engineer review, the CEO review, develop experience review, so on, so on, and have them help me to revise the design doc. So right now, seems like things are done, although it's like not done, done. The status is like done with the new concerns. But for now, let's pause here. So let's say I'm okay for the current design document, even though I haven't read it, so I have already opened the folder where I can find this design document, which is like a markdown file. So what I want to talk about for the next is, let's say this is some design doc and we are happy with it, and then we want to move on to the execution and development stage. So if you purely just care about the coding part, then my personal recommendation is to hand everything off to superpowers, rather than keep using G stack. So you can just have the path to your design doc handy, and then either write that into your cloud MD and then now call superpowers like either TV or sub agent driven development, and then have them dispatch the sub agents for you to write down all the code, all the functions. But what I want to talk about today is something different. It's more like on the visual side. So probably know, like in the past few weeks and profit released their new model, Opus four, seven. OpenAI released their new model, GB five, five, and if you look into both releases, the highlights for both models are pretty much two things, right?
+
+Transcribed by https://otter.ai
