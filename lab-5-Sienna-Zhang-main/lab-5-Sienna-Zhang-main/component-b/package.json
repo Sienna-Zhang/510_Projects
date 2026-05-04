@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "node --test tests/api.test.mjs",
+    "test:prod": "API_BASE_URL=$API_BASE_URL node --test tests/api.test.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.92.0",
