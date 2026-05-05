@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sienna Zhang — AI Entrepreneur</title>
+  <meta name="description" content="Sienna Zhang (张献戈) — AI-native product builder and entrepreneur. Building personalized decision systems that learn from people." />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Sienna Zhang — AI Entrepreneur" />
+  <meta property="og:description" content="AI-native product builder and entrepreneur. Building personalized decision systems that learn from people." />
+  <meta property="og:type" content="website" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=DM+Sans:wght@400;500&family=Noto+Sans+SC:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav" id="nav">
+    <div class="nav__inner">
+      <a class="nav__logo" href="#hero">
+        <span data-en="Sienna Zhang" data-zh="张献戈">Sienna Zhang</span>
+      </a>
+
+      <ul class="nav__links" id="navLinks">
+        <li><a href="#background" data-en="Background" data-zh="背景">Background</a></li>
+        <li><a href="#works" data-en="Works" data-zh="作品">Works</a></li>
+        <li>
+          <button class="lang-toggle" id="langToggle" aria-label="Switch language">
+            <span class="lang-toggle__en">中文</span>
+            <span class="lang-toggle__zh" hidden>EN</span>
+          </button>
+        </li>
+      </ul>
+
+      <button class="nav__hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <!-- Mobile overlay menu -->
+    <div class="nav__mobile-overlay" id="mobileOverlay" aria-hidden="true">
+      <ul class="nav__mobile-links">
+        <li><a href="#background" data-en="Background" data-zh="背景">Background</a></li>
+        <li><a href="#works" data-en="Works" data-zh="作品">Works</a></li>
+      </ul>
+      <button class="lang-toggle lang-toggle--mobile" id="langToggleMobile" aria-label="Switch language">
+        <span class="lang-toggle__en">切换中文</span>
+        <span class="lang-toggle__zh" hidden>Switch to EN</span>
+      </button>
+    </div>
+  </nav>
+
+  <main>
+
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <div class="hero__content">
+        <span class="hero__tag" data-en="AI Entrepreneur" data-zh="AI 创业者">AI Entrepreneur</span>
+        <h1 class="hero__name">
+          <span data-en="Sienna Zhang" data-zh="张献戈">Sienna Zhang</span>
+        </h1>
+        <p class="hero__tagline" data-en="Building AI systems that understand people — not just their words." data-zh="构建真正理解人的 AI 系统，而不仅仅是文字。">
+          Building AI systems that understand people — not just their words.
+        </p>
+        <a class="hero__scroll" href="#background" aria-label="Scroll to background">
+          <span data-en="Explore" data-zh="向下探索">Explore</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M8 3v10M3 8l5 5 5-5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </section>
+
+    <!-- Background -->
+    <section class="section background" id="background">
+      <div class="section__inner">
+        <h2 class="section__title" data-en="Background" data-zh="背景">Background</h2>
+
+        <div class="timeline">
+
+          <div class="timeline__item">
+            <div class="timeline__meta">
+              <span class="timeline__date">2025 — 2027</span>
+              <span class="timeline__type edu" data-en="Education" data-zh="教育">Education</span>
+            </div>
+            <div class="timeline__body">
+              <h3 data-en="University of Washington, Seattle" data-zh="华盛顿大学西雅图分校">University of Washington, Seattle</h3>
+              <p data-en="M.S. Technology Innovation (MSTI) · US News #8" data-zh="技术创新理学硕士（MSTI）· US News #8">M.S. Technology Innovation (MSTI) · US News #8</p>
+              <p class="timeline__desc" data-en="Coursework: Digital & Physical Interface Programming, Machine Learning & Signal Processing, User Research, Design Thinking, Technology Strategy" data-zh="主修课程：数字与实体界面编程、机器学习与信号处理、用户研究与评估、设计思维、技术战略">
+                Coursework: Digital &amp; Physical Interface Programming, Machine Learning &amp; Signal Processing, User Research, Design Thinking, Technology Strategy
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline__item">
+            <div class="timeline__meta">
+              <span class="timeline__date">2025.04 — 2025.07</span>
+              <span class="timeline__type work" data-en="Work" data-zh="工作">Work</span>
+            </div>
+            <div class="timeline__body">
+              <h3 data-en="Tezign 特赞" data-zh="特赞 Tezign">Tezign 特赞</h3>
+              <p data-en="AI Product Manager &amp; Prompt Engineer" data-zh="AI 产品经理 + 提示词工程师">AI Product Manager &amp; Prompt Engineer</p>
+              <p class="timeline__desc" data-en="Led the 0-to-1 design of Mars「Crystal Ball」— a multi-agent business analysis system for Mars Group. Built RAG evaluation pipelines for Lenovo's enterprise knowledge base. Optimized AIGC product image generation workflows using ComfyUI and Dify." data-zh="主导「水晶球」多Agent商业分析系统从0到1设计，服务玛氏集团；构建联想企业知识库RAG评估体系；基于ComfyUI和Dify优化AIGC商品图生成工作流。">
+                Led the 0-to-1 design of Mars「Crystal Ball」— a multi-agent business analysis system for Mars Group. Built RAG evaluation pipelines for Lenovo's enterprise knowledge base. Optimized AIGC product image generation workflows using ComfyUI and Dify.
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline__item">
+            <div class="timeline__meta">
+              <span class="timeline__date">2024.08 — 2025.02</span>
+              <span class="timeline__type work" data-en="Work" data-zh="工作">Work</span>
+            </div>
+            <div class="timeline__body">
+              <h3 data-en="Microfeel 空间直觉" data-zh="空间直觉 Microfeel">Microfeel 空间直觉</h3>
+              <p data-en="AI Product Assistant" data-zh="AI 产品助理">AI Product Assistant</p>
+              <p class="timeline__desc" data-en="Built a game narrative generation agent from 0-to-1 for an open-world RPG platform backed by Miracle Plus. Designed the full agent workflow, structured prompt system, and a 5-dimension evaluation framework. Also built a VRoid-to-ComfyUI character costume texture generation pipeline." data-zh="为已获奇绩创坛投资的开放世界RPG平台从0到1搭建游戏剧情生成智能体，设计完整工作流、结构化Prompt体系和五维度评测标准；构建从VRoid到ComfyUI的角色服装贴图生成工作流。">
+                Built a game narrative generation agent from 0-to-1 for an open-world RPG platform backed by Miracle Plus. Designed the full agent workflow, structured prompt system, and a 5-dimension evaluation framework. Also built a VRoid-to-ComfyUI character costume texture generation pipeline.
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline__item">
+            <div class="timeline__meta">
+              <span class="timeline__date">2019 — 2024</span>
+              <span class="timeline__type edu" data-en="Education" data-zh="教育">Education</span>
+            </div>
+            <div class="timeline__body">
+              <h3 data-en="Xi'an University of Architecture and Technology" data-zh="西安建筑科技大学">Xi'an University of Architecture and Technology</h3>
+              <p data-en="B.Arch · GPA 87.2/100" data-zh="建筑学学士 · GPA 87.2/100">B.Arch · GPA 87.2/100</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Works -->
+    <section class="section works" id="works">
+      <div class="section__inner">
+        <h2 class="section__title" data-en="Works" data-zh="作品">Works</h2>
+
+        <div class="works__grid">
+
+          <article class="work-card">
+            <div class="work-card__image work-card__image--05" role="img" aria-label="Thoth T-Mobile Hackathon project visual"></div>
+            <div class="work-card__body">
+              <h3 data-en="Thoth · T-Mobile Hackathon" data-zh="Thoth · T-Mobile 黑客松">Thoth · T-Mobile Hackathon</h3>
+              <p data-en="Enterprise-grade AI Agent PoC built at the T-Mobile Hackathon. Designed a full agentic workflow — SME knowledge interview → human approval → grounded QA → intelligent routing — to transform tacit expert knowledge into a structured, auditable organizational knowledge OS. Addresses the core enterprise problem: organizations possess vast knowledge but lack systems to make it AI-callable." data-zh="T-Mobile 黑客松企业级 AI Agent 概念验证项目，面向大型组织内部知识难以沉淀与复用的问题。设计完整 Agentic Workflow：SME 知识访谈 → 人工审核 → 有据问答 → 智能路由，将专家隐性知识结构化为可持续更新、可追溯的组织知识操作系统，降低知识流失风险与重复沟通成本。">
+                Enterprise-grade AI Agent PoC built at the T-Mobile Hackathon. Designed a full agentic workflow — SME knowledge interview → human approval → grounded QA → intelligent routing — to transform tacit expert knowledge into a structured, auditable organizational knowledge OS. Addresses the core enterprise problem: organizations possess vast knowledge but lack systems to make it AI-callable.
+              </p>
+              <div class="work-card__tags">
+                <span>AI Agent</span><span>RAG</span><span>Workflow Design</span><span>Human-in-the-Loop</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-card__image work-card__image--03" role="img" aria-label="Weekend Planning Agent project visual"></div>
+            <div class="work-card__body">
+              <h3 data-en="Weekend Planning Agent" data-zh="周末规划 Agent">Weekend Planning Agent</h3>
+              <p data-en="A multi-step decision assistant that turns vague user intent into a personalized weekend plan. Integrates preference modeling, real-world context (weather, transit), and transparent ranking. Built with LangChain and MCP." data-zh="将用户模糊意图解析为个性化周末计划的多步骤 Agent，集成偏好建模、实时外部数据（天气/交通）与透明排序机制，基于 LangChain + MCP 构建。">
+                A multi-step decision assistant that turns vague user intent into a personalized weekend plan. Integrates preference modeling, real-world context (weather, transit), and transparent ranking. Built with LangChain and MCP.
+              </p>
+              <div class="work-card__tags">
+                <span>LangChain</span><span>MCP</span><span>Decision Systems</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-card__image work-card__image--02" role="img" aria-label="Mars Crystal Ball project visual"></div>
+            <div class="work-card__body">
+              <h3 data-en="Mars · Crystal Ball" data-zh="玛氏 · 水晶球">Mars · Crystal Ball</h3>
+              <p data-en="Business intelligence Agent for Mars Group. Built the full multi-agent orchestration chain: user intent → data retrieval → insight extraction → concept generation. Designed structured prompt systems to maintain stable output across complex task flows." data-zh="为玛氏集团打造的内部商业分析 Agent，构建「用户问题→数据检索→洞察抽取→概念生成」完整多 Agent 编排链路，设计结构化 Prompt 使多 Agent 在复杂任务下保持稳定输出。">
+                Business intelligence Agent for Mars Group. Built the full multi-agent orchestration chain: user intent → data retrieval → insight extraction → concept generation. Designed structured prompt systems to maintain stable output across complex task flows.
+              </p>
+              <div class="work-card__tags">
+                <span>Multi-Agent</span><span>RAG</span><span>Prompt Engineering</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-card__image work-card__image--01" role="img" aria-label="分叉人生 project visual"></div>
+            <div class="work-card__body">
+              <h3 data-en="Personalized Decision Simulator" data-zh="分叉人生 · 个性化决策模拟器">Personalized Decision Simulator</h3>
+              <p data-en="An AI-powered life-branch simulator for exploring counterfactual decisions. Designed to collect behavioral signals as the front-end validation layer for a personalized decision agent. Built MVP solo with vibe coding in one week." data-zh="一款 AI 驱动的人生分支模拟小程序，通过模拟真实决策场景收集用户行为数据，作为个性化决策 Agent 的前置验证。使用 Cursor vibe coding 独立开发，一周内完成 Demo。">
+                An AI-powered life-branch simulator for exploring counterfactual decisions. Designed to collect behavioral signals as the front-end validation layer for a personalized decision agent. Built MVP solo with vibe coding in one week.
+              </p>
+              <div class="work-card__tags">
+                <span>AI Agent</span><span>Vibe Coding</span><span>Product Design</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-card__image work-card__image--04" role="img" aria-label="AIGC Interior Design project visual"></div>
+            <div class="work-card__body">
+              <h3 data-en="AIGC Interior Design Generator" data-zh="AIGC 室内设计生成系统">AIGC Interior Design Generator</h3>
+              <p data-en="Built a style dataset from user research and social media data. Used embedding clustering and sentiment analysis to identify design styles, then combined GPT and Midjourney to generate structured design proposals and images automatically." data-zh="基于用户调研与社交媒体数据构建室内设计风格数据集，通过 Embedding 聚类与情感分析筛选风格，结合 GPT + Midjourney 生成结构化设计方案与图像，实现设计流程自动化。">
+                Built a style dataset from user research and social media data. Used embedding clustering and sentiment analysis to identify design styles, then combined GPT and Midjourney to generate structured design proposals and images automatically.
+              </p>
+              <div class="work-card__tags">
+                <span>Embedding</span><span>Midjourney</span><span>Workflow Design</span>
+              </div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer__inner">
+      <p class="footer__name" data-en="Sienna Zhang" data-zh="张献戈">Sienna Zhang</p>
+      <div class="footer__links">
+        <a href="mailto:xiange.zhang@163.com" class="footer__link" aria-label="Email">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="2" y="4" width="20" height="16" rx="2"/>
+            <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+          </svg>
+          <span>xiange.zhang@163.com</span>
+        </a>
+        <a href="#" class="footer__link" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+            <rect x="2" y="9" width="4" height="12"/>
+            <circle cx="4" cy="4" r="2"/>
+          </svg>
+          <span>LinkedIn</span>
+        </a>
+      </div>
+      <p class="footer__copy">© 2026</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
